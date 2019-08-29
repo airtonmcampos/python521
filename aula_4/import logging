@@ -1,0 +1,28 @@
+import logging 
+
+
+FORMAT_STRING = '''
+
+%(asctime)s | %(levelname)s |
+%(filename)s | %(messages)s
+
+'''.replace('\n', '').strip()
+
+
+DATE_FORMAT_STRING = '''
+
+
+
+
+
+
+'''
+
+opts = {
+	'filename': 'app.log' ,
+	'level': logging.DEBUG,
+	'format': FORMAT_STRING,
+	'datefmt': DATE_FORMAT_STRING
+}
+
+loggin.basicConfig(**opts)

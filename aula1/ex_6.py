@@ -1,6 +1,6 @@
 import requests 
 
-DOMAIN_URL = 'https://gen-net.herokuapp.com/api/users/{}'
+DOMAIN_URL = 'https://gen-net.herokuapp.com/api/users/{}'	
 
 user_id = input('digite seu id: ')
 
