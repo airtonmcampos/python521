@@ -37,7 +37,7 @@ pyasn1==0.1.9
 pyasn1-modules==0.0.7
 pycrypto==2.6.1
 pygame===1.9.1release
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 pylibmc==1.5.1
 pymongo==3.8.0
