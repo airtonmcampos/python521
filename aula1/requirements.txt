@@ -17,7 +17,7 @@ greenlet==0.4.12
 idna==2.2
 incremental==16.10.1
 ipaddress==1.0.17
-ipython==5.2.2
+ipython==7.16.3
 ipython-genutils==0.1.0
 keyring==10.1
 keyrings.alt==1.3
